@@ -481,14 +481,17 @@
   },
   {
     "title": "Amazon Elastic Container Registry",
+    "friendly_title": "Amazon ECR",
     "href": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelasticcontainerregistry.html"
   },
   {
     "title": "Amazon Elastic Container Registry Public",
+    "friendly_title": "Amazon ECR Public",
     "href": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelasticcontainerregistrypublic.html"
   },
   {
     "title": "Amazon Elastic Container Service",
+    "friendly_title": "Amazon ECS",
     "href": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelasticcontainerservice.html"
   },
   {
@@ -497,6 +500,7 @@
   },
   {
     "title": "Amazon Elastic File System",
+    "friendly_title": "Amazon EFS",
     "href": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelasticfilesystem.html"
   },
   {
@@ -505,18 +509,22 @@
   },
   {
     "title": "Amazon Elastic Kubernetes Service",
+    "friendly_title": "Amazon EKS",
     "href": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelastickubernetesservice.html"
   },
   {
     "title": "AWS Elastic Load Balancing",
+    "friendly_title": "Amazon ELB",
     "href": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awselasticloadbalancing.html"
   },
   {
     "title": "Elastic Load Balancing V2",
+    "friendly_title": "Amazon ELBv2",
     "href": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_elasticloadbalancingv2.html"
   },
   {
     "title": "Amazon Elastic MapReduce",
+    "friendly_title": "Amazon EMR",
     "href": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelasticmapreduce.html"
   },
   {
