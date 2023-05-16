@@ -477,6 +477,7 @@
   },
   {
     "title": "Amazon Elastic Block Store",
+    "friendly_title": "Amazon EBS",
     "href": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelasticblockstore.html"
   },
   {
@@ -1276,6 +1277,7 @@
   },
   {
     "title": "AWS Security Token Service",
+    "friendly_title": "AWS STS",
     "href": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssecuritytokenservice.html"
   },
   {
